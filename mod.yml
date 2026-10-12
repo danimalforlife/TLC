@@ -1,0 +1,17 @@
+title: Nighttime TLC
+originalAuthor: danimalforlife
+description: |+
+  Reminds you not to go chasing waterfalls.
+
+dependencies: 
+assets:
+
+#############
+#Map Texture#
+#############
+#HB26 - Garden of Assemblage#
+- name: remastered/map/hb26.map/-3.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: TLC/TLC.dds
