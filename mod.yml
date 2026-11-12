@@ -17,7 +17,7 @@ assets:
   - name: TLC/TLC.dds
   
 #AL09 - The Cave of Wonders: Stone Guardians
-- name: remastered/map/hb26.map/-11.dds
+- name: remastered/map/al09.map/-11.dds
   package: kh2_fifth
   method: copy
   source:
