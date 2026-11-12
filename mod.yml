@@ -21,4 +21,4 @@ assets:
   package: kh2_fifth
   method: copy
   source:
-  - name: TLC/TLC.dds
+  - name: TLC/TLCFlip.dds
